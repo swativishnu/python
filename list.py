@@ -14,3 +14,8 @@ print( 1 in numbers)
 print(numbers)
 print(10 in numbers)
 print(len(numbers))
+
+
+num = (1,2,3,3)
+print(num.count(3))
+print(num.index(3))
